@@ -39,3 +39,8 @@ _This text is italic_
 3. Item three
 4. Item three-A
 5. Item three-B
+
+```
+This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+```
