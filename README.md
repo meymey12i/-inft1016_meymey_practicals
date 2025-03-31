@@ -51,3 +51,6 @@ This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet,
     if not bar:
         return True
 ```
+
+
+![Image of a robot.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg)
