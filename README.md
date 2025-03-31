@@ -46,3 +46,8 @@ This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet,
 ```
 # This is a large heading. 
  ` Inline code: make this word inline. ` 
+# This is a large heading. 
+```def foo
+    if not bar:
+        return True
+```
