@@ -20,3 +20,4 @@ A [_dog_](https://en.wikipedia.org/wiki/Dog) is a 4-legged, furry creature that'
 # This is a large heading. 
 _This text is italic_
 **This text is bold.**
+**This text is bold and _italic!_**
