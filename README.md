@@ -58,7 +58,7 @@ This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet,
 [Here's a Link!](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg)
 
 | Number | color | size |
-| ------------- | ------------- | -------------
+|    ---:  |  :---   |   :---:  
 | 1  | Pink  | small |
 | 2  | Blue | medium   |
 | 3  | yellow | Large
